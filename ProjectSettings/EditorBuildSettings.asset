@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NatureStage.unity
     guid: cf1edbceb353a2848a73af3fd3df5d46
+  - enabled: 1
+    path: Assets/IL3DN/Scenes/TheIllustratedNature_PineForest.unity
+    guid: c27a73b1c70a99f479baa3809e38a864
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 93683d656021ce5459754349ad1eb023,
       type: 2}
